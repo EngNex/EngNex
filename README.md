@@ -1,9 +1,9 @@
 ## Eu sou o Robson🤓, bem vindo ao meu gitHub 👋👋👋
 - 🔭 Estou trabalhando com Engenharia Mecatronica na area medica(C.M.E).
-- 🌱 Estou estudando fullstack.
+- 🌱 Estou estudando programação fullstack.
 - 💬 Pergunte me sobre: Java, Python, Html, Css.
 - 📫 Contato: mecaunip2015@gmail.com
-- 😄 Pronouns: Ele/dele
+- 😄 Pronomes: Ele/dele
 
 ## :: Tecnologias ::
 <div align-items="center "style="display: inline_block"><br>
