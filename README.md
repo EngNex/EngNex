@@ -5,12 +5,11 @@
 - 📫 Contato: mecaunip2015@gmail.com
 - 😄 Pronouns: Ele/dele
 
-<a href="https://github.com/EngNex)github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EngNex&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/EngNex/EngNex.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EngNex&repo=EngNex.github.io&theme=buefy" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EngNex&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
+</p>
+
 
 
 
